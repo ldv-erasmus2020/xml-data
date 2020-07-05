@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<city_overview>
+
+  <city>
+       <id></id>
+       <title>Borgomanero</title>
+       <lat>45°42'11"88 N</lat>
+       <lng>08°27'33"12 E</lng>
+       <description>Borgomanero è un comune italiano della provincia di Novara. È la seconda città della provincia per popolazione dopo il capoluogo. Dista 65 km da Milano e 110 km da Torino. Per questo la città presenta una grande influenza lombarda ed è legata economicamente e culturalmente all’area metropolitana di Milano.</description>
+       <inhabitants>21776</inhabitants>
+       <area>32.27</area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Cureggio</title>
+       <lat>45°40'32"88 N</lat>
+       <lng>08°27'38"88 E</lng>
+       <description>Situato ai piedi delle colline del novarese, Cureggio è un piccolo comune, che si articola su una superficie di circa 8 Kmq. Situato nella piana del Rosa, a ridosso della catena del Monte Rosa, il paese si trova tra il lago Maggiore e il lago d'Orta.</description>
+       <inhabitants>2273</inhabitants>
+       <area>8.38</area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Vergano Inferiore (Frazione di Borgomanero)</title>
+       <lat>45°42'00.3"N</lat>
+       <lng>8°26'45.2"E</lng>
+       <description>Vergano Inferiore fa parte del comune di Borgomanero, in provincia di Novara, nella regione Piemonte. La frazione o località di Vergano Novarese dista 1,70 chilometri dal medesimo comune di Borgomanero di cui essa fa parte.</description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Vergano Superiore (Frazione di Borgomanero)</title>
+       <lat>45°42'18.4"N</lat>
+       <lng>8°26'39.1"E</lng>
+       <description>Vergano Superiore fa parte del comune di Borgomanero, in provincia di Novara, nella regione Piemonte e dista 2,4 km dal Centro di Borgomanero e ospita il Castello tra la fine del XIII secolo e la prima metà XIV secolo su commissione dei Tornielli. </description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>San Marco (Frazione di Borgomanero)</title>
+       <lat>45°43'05.7"N</lat>
+       <lng>8°27'49.2"E</lng>
+       <description>San Marco fa parte del comune di Borgomanero, in provincia di Novara, nella regione Piemonte. La frazione dista 1,84 chilometri dal medesimo comune di Borgomanero di cui essa fa parte.</description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Torre della Baraggiola, Borgomanero</title>
+       <lat>45°43'24.9"N</lat>
+       <lng>8°29'14.2"E</lng>
+       <description>La località Baraggiola, risalente al secolo X, fu nominata “curtis regia” nel 962, quando venne donata da Ottone l di Sassonia alla pieve di San Giulio. L’edificazione della torre, anteriore alla Chiesa di san Nicola, può risalire alla fine del X secolo; la chiesa all’inizio dell’XI.</description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Maggiate Inferiore (Frazione di Gattico)</title>
+       <lat>45°42'07.3"N</lat>
+       <lng>8°29'20.8"E</lng>
+       <description>Maggiate Inferiore fa parte del comune di Gattico, in provincia di Novara, nella regione Piemonte. La frazione o località di Maggiate Inferiore dista 2,69 chilometri dal medesimo comune di Gattico di cui essa fa parte.</description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Cascine Coco, Santa Cristina di Borgomanero</title>
+       <lat>45°41'51.0"N</lat>
+       <lng>8°29'37.7"E</lng>
+       <description>Località a nord di Santa Cristina, legata alla Cascina Coco; la “Cascina” è una struttura agricola tipica della Pianura Padana; si tratta di una grande fattoria al centro di un'azienda agricola.</description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+  <city>
+       <id></id>
+       <title>Santa Cristina, Frazione di Borgomanero</title>
+       <lat>45°41'10.3"N</lat>
+       <lng>8°29'54.3"E</lng>
+       <description>Non c’è il nome di Santa Cristina tra i documenti anteriori al secolo XVI. Solo nel 1514 due terreni sono indicati come situati in regione Ad Sanctam Christinam, cioè nelle vicinanze della chiesetta in cui era venerata la Santa Martire.</description>
+       <inhabitants></inhabitants>
+       <area></area>
+       <image></image>
+       <region>Piemonte</region>
+  </city>
+
+</city_overview>
