@@ -2,169 +2,170 @@
 
 <sight>
   <id></id>
-  <title>Nome	Battistero di San Giovanni Battista</title>
-  <lat>45° 40′ 17.48″ N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8° 27′ 20.51″ E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>ll battistero di San Giovanni Battista di Cureggio è un edificio sacro costruito nel XII secolo in stile romanico probabilmente su di uno più antico risalente al V secolo. Presenta una pianta ottagonale con quattro absidi semicircolari piuttosto pronunciate che si aprono su lati alterni.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento religioso</category>           <!-- String-->
+  <title>Battistero di San Giovanni Battista</title>
+  <lat>45° 40′ 17.48″ N</lat>
+  <lng>8° 27′ 20.51″ E</lng>
+  <description>ll battistero di San Giovanni Battista di Cureggio è un edificio sacro costruito nel XII secolo in stile romanico probabilmente su di uno più antico risalente al V secolo. Presenta una pianta ottagonale con quattro absidi semicircolari piuttosto pronunciate che si aprono su lati alterni.</description>
+  <category>Monumento religioso</category>
   <image></image>
   <yearOfConstruction>XII secolo</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>TAM - SPAZIO MULTIMEDIALE SUL TARDO ANTICO E IL MEDIOEVO NOVARESE</title>
-  <lat>45°40'29.4"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°27'44.4"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Lo spazio multimediale TAM è un centro di documentazione e didattica dedicato alla storia del territorio novarese fra epoca Tardo Antica e Medioevo. È ospitato presso Casa della torre, edificio del XVI secolo completamente ristrutturato. Museo e centro di ricerca con una proposta rivolta a scuole, famiglie e turisti.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Museo</category>           <!-- String-->
+  <lat>45°40'29.4"N</lat>
+  <lng>8°27'44.4"E</lng>
+  <description>Lo spazio multimediale TAM è un centro di documentazione e didattica dedicato alla storia del territorio novarese fra epoca Tardo Antica e Medioevo. È ospitato presso Casa della torre, edificio del XVI secolo completamente ristrutturato. Museo e centro di ricerca con una proposta rivolta a scuole, famiglie e turisti.</description>
+  <category>Museo</category>
   <image></image>
   <yearOfConstruction>2019 – edificio XVI secolo</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>Colline Colombaro</title>
-  <lat>45°41'34.3"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°27'04.0"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Area collinare che si estende per circa 4 km a ovest dei centri abitati di Cureggio e Borgomanero in direzione nord-sud, a una altitudine media di 350 m. Prevalentemente boschiva, ma su cui stanno ritornando importanti appezzamenti di vite.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Bene paesaggistico</category>           <!-- String-->
+  <lat>45°41'34.3"N</lat>
+  <lng>8°27'04.0"E</lng>
+  <description>Area collinare che si estende per circa 4 km a ovest dei centri abitati di Cureggio e Borgomanero in direzione nord-sud, a una altitudine media di 350 m. Prevalentemente boschiva, ma su cui stanno ritornando importanti appezzamenti di vite.</description>
+  <category>Bene paesaggistico</category>
   <image></image>
   <yearOfConstruction></yearOfConstruction>
   <architect></architect>
-  <size>350 m di media</size>                   <!--height-->
+  <size>350 m di media</size>
 </sight>
 
 <sight>
   <id></id>
   <title>Castello di Vergano Superiore</title>
-  <lat>45°42'18.9"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°26'38.9"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Descrizione	Il Castello di Vergano venne edificato sulla collina di Vergano, una piccola frazione di Borgomanero, tra la fine del XIII secolo e la prima metà XIV secolo, su commissione dei Tornielli. La parte più significativa del Castello è la torre quattrocentesca di forma quadrata, con tracce dei ponti levatoi che permettevano l'accesso al suo interno. Oggi il monumento si presenta costituito da quattro corpi di fabbricato, con la parte anteriore posta verso il paese.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento Storico</category>           <!-- String-->
+  <lat>45°42'18.9"N</lat>
+  <lng>8°26'38.9"E</lng>
+  <description>Il Castello di Vergano venne edificato sulla collina di Vergano, una piccola frazione di Borgomanero, tra la fine del XIII secolo e la prima metà XIV secolo, su commissione dei Tornielli. La parte più significativa del Castello è la torre quattrocentesca di forma quadrata, con tracce dei ponti levatoi che permettevano l'accesso al suo interno. Oggi il monumento si presenta costituito da quattro corpi di fabbricato, con la parte anteriore posta verso il paese.</description>
+  <category>Monumento Storico</category>
   <image></image>
   <yearOfConstruction>XIII-XIV secolo</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>Oratorio di Santa Caterina</title>
-  <lat></lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng></lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Descrizione	Questo Oratorio, che sorge in prossimità del Ponte Araldo, sull'Agogna, era presente nel Borgo dal sec. XII, poi riedificato ed ampliato nella prima metà del 1500, ricostruito dopo la peste del 1630-31 ed infine nel 1680 assunse l'attuale struttura, col portichetto esterno fatto edificare dalla illustre famiglia Ramellini.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Edificio religioso</category>           <!-- String-->
+  <lat></lat>
+  <lng></lng>
+  <description>Questo Oratorio, che sorge in prossimità del Ponte Araldo, sull'Agogna, era presente nel Borgo dal sec. XII, poi riedificato ed ampliato nella prima metà del 1500, ricostruito dopo la peste del 1630-31 ed infine nel 1680 assunse l'attuale struttura, col portichetto esterno fatto edificare dalla illustre famiglia Ramellini.</description>
+  <category>Edificio religioso</category>
   <image></image>
   <yearOfConstruction>XII-1680</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>Ponte Araldo</title>
-  <lat>45°42'09.8"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°27'37.0"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Citato per la prima volta in una pergamena del 1204 come Ponte Araldo; costruito in legno sulla strata novariensis verso la Riviera d’Orta, forse preesistente alla fondazione del Borgofranco, venne rifatto in pietra in occasione dell’esondazione dell’Agogna dell’anno 1590. Era anche detto, nelle antiche carte, il Ponte del molino.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento storico</category>           <!-- String-->
+  <lat>45°42'09.8"N</lat>
+  <lng>8°27'37.0"E</lng>
+  <description>Citato per la prima volta in una pergamena del 1204 come Ponte Araldo; costruito in legno sulla strata novariensis verso la Riviera d’Orta, forse preesistente alla fondazione del Borgofranco, venne rifatto in pietra in occasione dell’esondazione dell’Agogna dell’anno 1590. Era anche detto, nelle antiche carte, il Ponte del molino.</description>
+  <category>Monumento storico</category>
   <image></image>
   <yearOfConstruction>1204-1590</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>Oratorio di San Leonardo</title>
-  <lat>45°42'05.5"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°27'44.5"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>La chiesa fu fatta costruire dai Conti di Pombia sul varco dell’Agogna, intorno al 1125 – 1150. Presenta affreschi dal XII al XV secolo. Sorgeva alla periferia nord della città ed era l’antica chiesa del borgo di San Leonardo. In epoca barocca furono sopraelevati i muri, aperte due finestre in facciata.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento religioso</category>           <!-- String-->
+  <lat>45°42'05.5"N</lat>
+  <lng>8°27'44.5"E</lng>
+  <description>La chiesa fu fatta costruire dai Conti di Pombia sul varco dell’Agogna, intorno al 1125 – 1150. Presenta affreschi dal XII al XV secolo. Sorgeva alla periferia nord della città ed era l’antica chiesa del borgo di San Leonardo. In epoca barocca furono sopraelevati i muri, aperte due finestre in facciata.</description>
+  <category>Monumento religioso</category>
   <image></image>
   <yearOfConstruction>1125-1150</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>Colle di San Michele</title>
-  <lat>45°43'31.8"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°28'52.2"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Area collinare prevalentemente boschiva, un tempo ricoperta da vigneti di cui rimangono poche testimonianze. Sulla sommità la piccola chiesa di San Michele alle Verzole. </description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Area paesaggistica</category>           <!-- String-->
+  <lat>45°43'31.8"N</lat>
+  <lng>8°28'52.2"E</lng>
+  <description>Area collinare prevalentemente boschiva, un tempo ricoperta da vigneti di cui rimangono poche testimonianze. Sulla sommità la piccola chiesa di San Michele alle Verzole. </description>
+  <category>Area paesaggistica</category>
   <image></image>
   <yearOfConstruction></yearOfConstruction>
   <architect></architect>
-  <size>Punto massimo: 296 m </size>                   <!--height-->
+  <size>Punto massimo: 296 m </size>
 </sight>
 
 <sight>
   <id></id>
   <title>Chiesa San Michele alle Verzole</title>
-  <lat>Chiesa San Michele alle Verzole</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°28'53.1"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>La chiesa sorge isolata sul colle omonimo. La parte più antica è l'abside, fine X secolo.  La navata originale è invece poco. L'oratorio ha subito un primo lungo abbandonato a partire dal 1500 per poi beneficiare di lavori di ripristino.  Il San Michele versa oggi in stato di completo degrado.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento religioso</category>           <!-- String-->
+  <lat>45°43'31.8"N</lat>
+  <lng>8°28'53.1"E</lng>
+  <description>La chiesa sorge isolata sul colle omonimo. La parte più antica è l'abside, fine X secolo.  La navata originale è invece poco. L'oratorio ha subito un primo lungo abbandonato a partire dal 1500 per poi beneficiare di lavori di ripristino.  Il San Michele versa oggi in stato di completo degrado.</description>
+  <category>Monumento religioso</category>
   <image></image>
   <yearOfConstruction>X secolo - 1600</yearOfConstruction>
   <architect></architect>
-  <size>396 metri altitudine</size>                   <!--height-->
+  <size>396 metri altitudine</size>
 </sight>
 
 <sight>
   <id></id>
   <title>Torre della Baraggiola</title>
-  <lat>45°43'25.9"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°29'14.4"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Descrizione	La Torre della Baraggiola fa parte del complesso medievale della Curtis Regia della Baraggiola. Si innalza alla sinistra della chiesa di San Nicola; alta oggi 21 metri con muri spessi 120 cm, aveva funzione difensiva (avvistamento e segnalazione).</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento storico</category>           <!-- String-->
+  <lat>45°43'25.9"N</lat>
+  <lng>8°29'14.4"E</lng>
+  <description>La Torre della Baraggiola fa parte del complesso medievale della Curtis Regia della Baraggiola. Si innalza alla sinistra della chiesa di San Nicola; alta oggi 21 metri con muri spessi 120 cm, aveva funzione difensiva (avvistamento e segnalazione).</description>
+  <category>Monumento storico</category>
   <image></image>
   <yearOfConstruction>975-1000</yearOfConstruction>
   <architect></architect>
-  <size>21 m</size>                   <!--height-->
+  <size>21 m</size>
 </sight>
 
 <sight>
   <id></id>
   <title>Chiesa di San Nicola a Baraggiola</title>
-  <lat></lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng></lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>L’oratorio è a una sola navata, con facciata a capanna e abside semicircolare, costruito con pietre e mattoni e fa parte del complesso medievale della Curtis Regia della Baraggiola. Gli affreschi dell’interno sono ormai illeggibili e forse rappresentano san Nicola o sant’Agostino.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento religioso</category>           <!-- String-->
+  <lat></lat>
+  <lng></lng>
+  <description>L’oratorio è a una sola navata, con facciata a capanna e abside semicircolare, costruito con pietre e mattoni e fa parte del complesso medievale della Curtis Regia della Baraggiola. Gli affreschi dell’interno sono ormai illeggibili e forse rappresentano san Nicola o sant’Agostino.</description>
+  <category>Monumento religioso</category>
   <image></image>
   <yearOfConstruction>975-1000</yearOfConstruction>
   <architect></architect>
-  <size></size>                   <!--height-->
+  <size></size>
 </sight>
 
 <sight>
   <id></id>
   <title>Chiesa Parrocchiale di Santa Cristina</title>
-  <lat></lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng></lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>Risale l'origine della Chiesa ad un piccolo Oratorio con relativo battistero. L’edificio attuale venne consacrato nel 1605. Solo nei primi anni del 1700 la riedificazione portò la Chiesa di Santa Cristina all'attuale consistenza. Si trova in una magnifica posizione panoramica affacciata sull’arco alpino del Monte Rosa.</description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Monumento religioso</category>           <!-- String-->
+  <lat></lat>
+  <lng></lng>
+  <description>Risale l'origine della Chiesa ad un piccolo Oratorio con relativo battistero. L’edificio attuale venne consacrato nel 1605. Solo nei primi anni del 1700 la riedificazione portò la Chiesa di Santa Cristina all'attuale consistenza. Si trova in una magnifica posizione panoramica affacciata sull’arco alpino del Monte Rosa.</description>
+  <category>Monumento religioso</category>
   <image></image>
   <yearOfConstruction>1605-1700</yearOfConstruction>
   <architect></architect>
-  <size>339 m di altitudine</size>                   <!--height-->
+  <size>339 m di altitudine</size>
 </sight>
 
 <sight>
   <id></id>
   <title>Museo della Civiltà Agricola Locale “La Manera”</title>
-  <lat>45°41'10.7"N</lat>                     <!--GMS(degree,minute,seconds)-->
-  <lng>8°29'55.1"E</lng>                     <!--GMS(degree,minute,seconds)-->
-  <description>All’interno del seicentesco Palazzo Bono raccolta di attrezzi, mobili, suppellettili, biancheria e molte altre cose ancora della vita contadina locale. </description>     <!--yearOfConstruction,architect,what can you do?, what makes this place unique?,size, History-->
-  <category>Museo Civico</category>           <!-- String-->
+  <lat>45°41'10.7"N</lat>
+  <lng>8°29'55.1"E</lng>
+  <description>All’interno del seicentesco Palazzo Bono raccolta di attrezzi, mobili, suppellettili, biancheria e molte altre cose ancora della vita contadina locale. </description>
+  <category>Museo Civico</category>
   <image></image>
   <yearOfConstruction>1989-1992; palazzo del 1600</yearOfConstruction>
   <architect></architect>
-  <size>339 m di altitudine</size>                   <!--height-->
+  <size>339 m di altitudine</size>
 </sight>
+
